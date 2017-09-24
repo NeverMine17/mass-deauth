@@ -19,7 +19,7 @@ RFKiller's Mass-Deauth Script TODO list:
 
     ./mass-deauth.sh -d 10 -w 30 -i wlan0
 
-If you have any suggestions, bug reports, "feature" requests, etc., - contact me and I will do what I can. Don't forget to stop over at [WeakNet Labs][4] and say "Hi" to Trevelyn! He is developing some really interesting projects, so check them out while you're there!
+If you have any suggestions, bug reports, "feature" requests, etc., - contact me and I will do what I can. Don't forget to stop over at [WeakNet Labs] and say "Hi" to Trevelyn! He is developing some really interesting projects, so check them out while you're there!
 
   [page]: https://github.com/RFKiller/mass-deauth
   [Leg3nd's Elegant Mass DeAuth Script]: http://jasagerpwn.googlecode.com/svn/trunk/src/deauth.sh
