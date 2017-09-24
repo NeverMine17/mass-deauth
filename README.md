@@ -1,5 +1,6 @@
-DO NOT USE THIS SCRIPT AGAINST NETWORKS YOU DON'T OWN OR DON'T HAVE PERMISSION TO ATTACK!
------------------------------------------------------------------------------------------
+# Mass Deauth script ![GPLv3](https://img.shields.io/badge/licence-GPLv3-red.svg)
+
+*DO NOT USE THIS SCRIPT AGAINST NETWORKS YOU DON'T OWN OR DON'T HAVE PERMISSION TO ATTACK!*
 
 If you need to reach me for whatever reason, regarding this script, you can email me <rfkiller@openmailbox.com>, or via the GitHub [page] for this script. This script was originally heavily influenced by [Leg3nd's Elegant Mass DeAuth Script], and greatly improved with help from [Trevelyn] of [WeakNet Labs] as well as some suggestions by Justin Welenofsky (hope I spelled that right).
 
@@ -25,3 +26,7 @@ If you have any suggestions, bug reports, "feature" requests, etc., - contact me
   [Leg3nd's Elegant Mass DeAuth Script]: http://jasagerpwn.googlecode.com/svn/trunk/src/deauth.sh
   [Trevelyn]: https://www.facebook.com/80211hacker "Trevelyn"
   [WeakNet Labs]: http://weaknetlabs.com "WeakNet Labs"
+
+## Licence
+This software is GPLv3 licenced. Original author of this script is RFKiller.  
+I have only made a few improvements.
